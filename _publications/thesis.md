@@ -3,8 +3,8 @@ title: "On the hermitian $$K$$-theory of the stable envelope"
 collection: publications
 category: thesis
 permalink: /publication/thesis
-excerpt: ''
-date: 'September 2025'
+excerpt: 
+date: 
 venue: 
 slidesurl: 
 paperurl:
