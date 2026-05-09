@@ -24,14 +24,15 @@ repository               : "dmarl/dmarl.github.io"
 author: "Daniel Marlowe"
 
   # Biographic information
-  name             : "Daniel Marlowe"
-  avatar           : "smirk2.jpeg"
-  pronouns         : "he/him"  
-  bio              : "Postdoctoral teaching fellow and mathematician at WMI"
-  employer         : "University of Warwick"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "daniel.c.marlowe@warwick.ac.uk"
-
+  email            : "none@example.org" 
+  
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/search/math?searchtype=author&query=Marlowe,+D"
