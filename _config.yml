@@ -26,7 +26,8 @@ author:
   avatar           : "smirk.jpg""
   name             : 
   bio              : 
-  pronouns         : "he/him"  
+  pronouns         : "he/him" 
+  location         : "United Kingdom"
   employer         : "University of Warwick"
   uri              : # URL
   email            : "daniel.c.marlowe@warwick.ac.uk" 
