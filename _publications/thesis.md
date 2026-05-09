@@ -4,7 +4,6 @@ collection: publications
 category: thesis
 permalink: /publication/thesis
 excerpt: 
-date: 
 venue: 
 slidesurl: 
 paperurl:
