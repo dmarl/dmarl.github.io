@@ -23,7 +23,7 @@ repository               : "dmarl/dmarl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "smirk.jpg"
+  avatar           : "smirk.jpeg"
   pronouns         : "he/him"  
   bio              : "Postdoctoral teaching fellow and mathematician at WMI"
   employer         : "University of Warwick"
