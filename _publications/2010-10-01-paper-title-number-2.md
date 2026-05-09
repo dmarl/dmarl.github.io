@@ -4,7 +4,7 @@ collection: publications
 category: pre-prints
 permalink: /publication/hkformiii
 excerpt: 'Joint with Marco Schlichting. We show how to canonically derive an exact form category in the sense of Schlichting to a Poincaré category in the sense of the nine authors, and exhibit a natural equivalence between the Grothendieck-Witt spectra associated to each.'
-date: 2024-11-14
+date: 
 venue: 
 slidesurl: 
 paperurl: 'https://arxiv.org/abs/2411.09401'
