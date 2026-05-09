@@ -1,14 +1,22 @@
 ---
-title: "Paper Title Number 1"
+title: "Higher K-theory of forms III: from chain complexes to derived categories"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/hkformiii
+excerpt: 'We exhibit a natural equivalence between the Grothendieck-Witt space associated to an exact form category,
+and that of its derived Poincaré category, and show that these equivalences deloop to an equivalence of (non-
+connective) Grothendieck-Witt spectra. In contrast to existing approaches, our argument proceeds via an
+analysis of an explicit model for the derived functor of a quadratic functor on a certain class of well-behaved
+(complicial) exact categories with weak equivalences (which includes categories of complexes and pretriangulated
+dg-categories), showing that hermitian constructions on these descend along the localisation functor in a way that
+preserves the Grothendieck-Witt theory. We also demonstrate that the genuine symmetric Poincaré structure on
+the bounded derived ∞-category of an ordinary exact category, coincides with the derived Poincaré structure of on-the-nose symmetric
+forms.'
+date: '11.2024'
+venue: 
+slidesurl: 
+paperurl: 'https://arxiv.org/abs/2411.09401'
+bibtexurl: 
+citation: 
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
