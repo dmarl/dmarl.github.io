@@ -23,9 +23,9 @@ repository               : "dmarl/dmarl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "smirk.jpg"
+  avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "United Kingdom"
   employer         : "University of Warwick"
