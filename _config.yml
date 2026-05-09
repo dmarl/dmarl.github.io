@@ -24,10 +24,8 @@ repository               : "dmarl/dmarl.github.io"
 author:
   # Biographic information
   avatar           : "smirk.jpg"
-  name             : "Your Sidebar Name"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "United Kingdom"
+  bio              : "Postdoctoral teaching fellow and mathematician at WMI"
   employer         : "University of Warwick"
   uri              : # URL
   email            : "daniel.c.marlowe@warwick.ac.uk" 
