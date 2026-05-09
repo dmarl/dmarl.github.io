@@ -1,7 +1,7 @@
 ---
 title: "**Higher $$K$$-theory of forms III: from chain complexes to derived categories**, joint with Marco Schlichting"
 collection: publications
-category: manuscripts
+category: pre-prints
 permalink: /publication/hkformiii
 excerpt: ''
 date: '11.2024'
