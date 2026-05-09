@@ -7,7 +7,7 @@ excerpt: ''
 date: 'September 2025'
 venue: 
 slidesurl: 
-paperurl: 'https://dmarl.github.io/files/thesis.pdf'
+paperurl:
 citation: 
 ---
-This is a local, semistable version of my thesis, last updated May 2026.
+[This](https://dmarl.github.io/files/thesis.pdf) is a local, semistable version of my thesis, last updated May 2026.
