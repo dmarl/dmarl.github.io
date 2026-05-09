@@ -24,6 +24,8 @@ repository               : "dmarl/dmarl.github.io"
 author:
   # Biographic information
   avatar           : "smirk.jpg""
+  name             : 
+  bio              : 
   pronouns         : "he/him"  
   employer         : "University of Warwick"
   uri              : # URL
