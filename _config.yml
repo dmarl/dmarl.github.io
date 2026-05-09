@@ -21,14 +21,16 @@ repository               : "dmarl/dmarl.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
+author: "Daniel Marlowe"
+
   # Biographic information
+  name             : "Your Sidebar Name"
   avatar           : "smirk2.jpeg"
   pronouns         : "he/him"  
   bio              : "Postdoctoral teaching fellow and mathematician at WMI"
   employer         : "University of Warwick"
   uri              : # URL
-  email            : "daniel.c.marlowe@warwick.ac.uk" 
+  email            : "daniel.c.marlowe@warwick.ac.uk"
 
   # Academic websites
   academia         : # URL
