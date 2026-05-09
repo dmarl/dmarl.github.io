@@ -4,7 +4,7 @@ collection: publications
 category: thesis
 permalink: /publication/thesis
 excerpt: 
-date: 2025-10-01
+date: 
 venue: 
 slidesurl: 
 paperurl:
