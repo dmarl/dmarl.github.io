@@ -4,7 +4,7 @@ collection: talks
 category: reading-group
 type: "Talk"
 permalink: 
-venue: "Reading group on $$\infty$$-categories"
+venue: "Reading group on higher categories"
 date: 2022-10-10
 location: "University of Warwick"
 ---
