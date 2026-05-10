@@ -1,5 +1,5 @@
 ---
-title: "Lindel's solution to the Bass-Quillen conjuecture in the geometric case"
+title: "Lindel's solution to the Bass-Quillen conjecture in the geometric case"
 collection: talks
 category: reading-group
 type: "Talk"
