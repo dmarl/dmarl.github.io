@@ -5,7 +5,7 @@ category: seminar
 type: "Talk"
 permalink: 
 excerpt: 
-venue: "WUppertal algebra & topology seminar"
+venue: "Wuppertal algebra & topology seminar"
 date: 2025-05-10
 location: "University of Wuppertal"
 ---
