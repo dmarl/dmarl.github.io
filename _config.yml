@@ -81,6 +81,12 @@ publication_category:
   in-preparation:
     title: 'In preparation'
 
+talk_category: 
+  seminar:
+    title: 'Conferences and seminars'
+  reading-group:
+    title: 'Reading groups'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
