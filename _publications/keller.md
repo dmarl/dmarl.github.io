@@ -1,9 +1,9 @@
 ---
 title: "Verdier sequences for exact categories"
 collection: publications
-category: in-preparation
+category: pre-prints
 permalink: 
-excerpt: 'Joint with Yonatan Harpaz.'
+excerpt: 'Joint with Yonatan Harpaz. _In preparation._'
 venue: 
 slidesurl: 
 paperurl: 
