@@ -4,7 +4,7 @@ collection: talks
 category: seminar
 type: "Talk"
 permalink: 
-venue: "[Warwick Postgraduate Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/postgraduate/22-23/postgraduate_seminar-daniel_marlowe.pdf)"
+venue: "[Warwick Postgraduate Seminar](https://dmarl.github.io/files/postgraduate_seminar_daniel_marlowe.pdf)"
 date: 2023-05-10
 location: "University of Warwick"
 ---
