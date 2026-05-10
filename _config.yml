@@ -78,7 +78,7 @@ publication_category:
     title: 'Pre-prints'
   thesis:
     title: 'Doctoral thesis'    
-  inprep:
+  in-preparation:
     title: 'In preparation'
 
 # Site Settings
