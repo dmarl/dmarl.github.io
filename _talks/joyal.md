@@ -6,5 +6,5 @@ type: "Talk"
 permalink: 
 venue: "Reading group on higher categories"
 date: 2022-10-10
-location: "University of Warwick"
+location:
 ---
