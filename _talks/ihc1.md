@@ -9,4 +9,3 @@ venue: "Reading group on higher internal category theory ([notes](https://dmarl.
 date: 2026-01-14
 location:
 ---
-
