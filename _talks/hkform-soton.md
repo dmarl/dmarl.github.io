@@ -5,8 +5,8 @@ category: seminar
 type: "Talk"
 permalink: 
 excerpt: 
-venue: "Southampton topology seminar"
+venue: "Southampton topology seminar, University of Southampton"
 date: 2026-03-10
-location: "University of Southampton"
+location:
 ---
 
