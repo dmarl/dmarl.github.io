@@ -5,7 +5,7 @@ category: seminar
 type: "Talk"
 permalink: 
 excerpt: 
-venue: "[RéGA](https://indico.math.cnrs.fr/category/287/) seminar, "
+venue: "[RéGA](https://indico.math.cnrs.fr/category/287/) seminar"
 date: 2026-05-14
-location:
+location: "Paris 13"
 ---
