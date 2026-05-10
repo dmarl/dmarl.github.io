@@ -6,7 +6,7 @@ type: "Talk"
 permalink: 
 excerpt: 
 venue: "Reading group on higher Zariski geometry"
-date: 2025-11
+date: 2025-11-01
 location:
 ---
 
