@@ -4,8 +4,8 @@ collection: talks
 category: reading-group
 type: "Talk"
 permalink: 
-excerpt: '([Notes](https://dmarl.github.io/files/lindel_bqc.pdf)).'
-venue: "ECHT reading seminar on algebraic vector bundles "
+excerpt: 
+venue: "ECHT reading seminar on algebraic vector bundles ([notes](https://dmarl.github.io/files/lindel_bqc.pdf))"
 date: 2023-10-10
 location:
 ---
