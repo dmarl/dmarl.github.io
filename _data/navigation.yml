@@ -15,7 +15,4 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /teaching/
