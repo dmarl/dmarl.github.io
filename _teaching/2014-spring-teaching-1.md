@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Postdoctoral Teaching Fellowship"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: ""
+permalink: /teaching/2025
+venue: "University of Warwick"
+date: 2025-09-01
+location:
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+TA for [MA3G6](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma3g6/) _Commutative Algebra_ and [MA3K7](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma3k7/) _Problem Solving with Python_.
 ======
-
 Heading 2
-======
-
-Heading 3
 ======
