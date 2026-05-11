@@ -3,7 +3,7 @@ title: "Higher $$K$$-theory of forms III: from chain complexes to derived catego
 collection: publications
 category: pre-prints
 permalink: /publication/hkformiii
-excerpt: 'Joint with Marco Schlichting. We show how to canonically derive an exact form category in the sense of [Schlichting](https://warwick.ac.uk/fac/sci/maths/people/staff/marco_schlichting/research/groupcompletionfinal.pdf) to a Poincaré category in the sense of the [nine authors](https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/paperI.pdf), and exhibit a natural equivalence between the Grothendieck-Witt spectra associated to each.'
+excerpt: 'Joint with Marco Schlichting. We show how to canonically derive an exact form category [in the sense of Schlichting](https://warwick.ac.uk/fac/sci/maths/people/staff/marco_schlichting/research/groupcompletionfinal.pdf) to a Poincaré category [in the sense of the nine authors](https://warwick.ac.uk/fac/sci/maths/people/staff/dotto/paperI.pdf), and exhibit a natural equivalence between the Grothendieck-Witt spectra associated to each.'
 venue: 
 slidesurl: 
 paperurl: 'https://arxiv.org/abs/2411.09401'
