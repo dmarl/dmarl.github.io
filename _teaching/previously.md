@@ -1,5 +1,5 @@
 ---
-title: "Graduate TA, 2021-2025"
+title: "Graduate TA, 2021-25"
 collection: teaching
 type: ""
 permalink: /teaching/GTA
