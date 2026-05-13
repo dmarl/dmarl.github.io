@@ -14,10 +14,7 @@
   clear: both;
 
   /* keep footer in normal document flow so custom widgets do not overlap content */
-  /* height: auto; */
-
-  min-height:100vh;
-  min-height:100svh;
+  height: auto;
    
   margin-top: 6em;
 
