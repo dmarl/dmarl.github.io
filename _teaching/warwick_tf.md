@@ -1,5 +1,5 @@
 ---
-title: "Postdoctoral Teaching Fellowship"
+title: "Postdoctoral Teaching Fellowship, 2025-27"
 collection: teaching
 type: ""
 permalink: /teaching/2025
