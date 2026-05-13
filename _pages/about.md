@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This website is under construction!"
+title: "Daniel Marlowe"
 author_profile: true
 redirect_from: 
   - /about/
