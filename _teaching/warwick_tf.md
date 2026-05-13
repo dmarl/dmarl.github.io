@@ -11,3 +11,5 @@ location:
 - TA for [MA3K7](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma3k7/) _Problem Solving with Python_, Sprint term 2026
 - Personal tutor for 10 tutees
 - Supervisor for 15 first year mathematics and statistics students
+
+<div style="padding bottom=100px">
