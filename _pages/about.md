@@ -12,3 +12,7 @@ Hi! I am a mathematician and teaching fellow at the [Warwick Mathematics Institu
 My research interests lie in homotopy theory, and in particular in algebraic and hermitian $$K$$-theory. I am interested in these as (higher) categorical invariants in themselves, and also through the lens of algebraic geometry and motivic homotopy theory.
 
 Before Warwick, I was briefly a programmer for a contract research organisation specialising in the analysis of clinical trials data; before this, I was an MSc student at the University of Nottingham. Before this, I was an undergraduate student at Trinity Hall, University of Cambridge.
+
+<br> 
+<br> 
+<br> 
