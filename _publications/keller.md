@@ -2,7 +2,7 @@
 title: "Keller sequences of exact categories"
 collection: publications
 category: pre-prints
-permalink: 
+permalink: /publication/keller
 excerpt: 'Joint with Yonatan Harpaz. We introduce a family of fibre-cofibre sequences, which we dub Keller sequences, in the category of exact $$\infty$$-categories generalising the notion of Verdier sequences of stable $$\infty$$-categories, and study their $$K$$-theoretic behaviour: we show that connective algebraic $$K$$-theory is Keller localising, and use this to give a categorical proof of the Gillet-Waldhausen theorem. We also give a self-contained proof of Waldhausen's additivity theorem for exact $$\infty$$-categories.'
 venue: 
 slidesurl: 
